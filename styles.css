@@ -1,0 +1,120 @@
+div.todo{
+    justify-content: center;
+    
+}
+body.body{
+    display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 110vh;
+            margin: 0;
+}
+
+/* PARTE 1 */
+div.Parte1{
+    text-align: center;
+    
+    justify-content: center;
+}
+span.L{
+    color: blue;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+div.Foto1{
+    float: inline-start;
+    height: 250px;
+    width: 150px;
+
+}
+
+span.letra{
+    font-size: 125%;
+}
+
+/* PARTE 2 */
+div.Parte2{
+    text-align: center;
+    font-size: 200%;
+    text-align: center;
+    
+   
+}
+
+span.M{
+
+    font-size: 150%;
+}
+
+p.moore{
+    color: aliceblue;
+    background-color: blue;
+    font-size: 130%;
+    font-family: serif;
+    width: 1058px;
+
+}
+
+
+p.pmoore{
+    background-color: mediumturquoise;
+    width: 1058px;
+    height: 200px;
+    
+}
+
+div.Parte3{
+    margin-left: 15%;
+    font-size: 100%;
+   
+   
+}
+
+span.fecha{
+    color: red;
+    font-size: 130%;
+    
+}
+/* PARTE 4 */
+p.MARK{
+    color: aliceblue;
+    background-color: blue;
+    font-size: 130%;
+    font-family: serif;
+    width: 1250px;
+
+}
+p.pMARK{
+    background-color: mediumturquoise;
+    width: 1250px;
+}
+div.Foto2{
+    float: inline-start;
+    height: 205px;
+    width: 182px;
+    
+}
+/* PARTE 5 */
+
+p.MARTIN{
+    color: aliceblue;
+    background-color: blue;
+    font-size: 130%;
+    font-family: serif;
+    width: 1250px;
+
+}
+p.pMARTIN{
+    background-color: mediumturquoise;
+    width: 1250px;
+    height: 225px;
+
+}
+div.Foto3{
+    float: inline-start;
+    height: 200px;
+    width: 182px;
+    
+}
